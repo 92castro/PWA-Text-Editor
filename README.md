@@ -48,4 +48,4 @@ Deployed page through Heroku
 
 - https://castro-pwa-text-editor.herokuapp.com/
 
-![screenshot of my project](assets/jatetext.PNG)
+![screenshot of my project](/Assets/jatetext.PNG)
